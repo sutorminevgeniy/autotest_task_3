@@ -1,0 +1,12 @@
+[
+    {
+        "uri": "/character/3333",
+        "method": "GET",
+        "headers": {
+            "User-Agent": "Request-Promise"
+        },
+        "result": {
+            "error": "Character not found"
+        }
+    }
+]

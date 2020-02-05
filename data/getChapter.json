@@ -1,0 +1,22 @@
+[
+    {
+        "uri": "/character/2",
+        "method": "GET",
+        "headers": {
+            "User-Agent": "Request-Promise"
+        },
+        "result": {
+            "name": "Morty Smith"
+        }
+    },
+    {
+        "uri": "/character/3",
+        "method": "GET",
+        "headers": {
+            "User-Agent": "Request-Promise"
+        },
+        "result": {
+            "name": "Summer Smith"
+        }
+    }
+]

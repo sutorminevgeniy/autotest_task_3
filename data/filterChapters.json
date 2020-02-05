@@ -1,0 +1,13 @@
+[
+    {
+        "uri": "/character",
+        "method": "GET",
+        "qs": {
+            "name": "rick",
+            "status": "alive"
+        },
+        "headers": {
+            "User-Agent": "Request-Promise"
+        }
+    }
+]

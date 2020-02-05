@@ -1,0 +1,12 @@
+[
+    {
+        "uri": "/character",
+        "method": "GET",
+        "qs": {
+            "page": 2
+        },
+        "headers": {
+            "User-Agent": "Request-Promise"
+        }
+    }
+]
