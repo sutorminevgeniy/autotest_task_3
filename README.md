@@ -1,5 +1,5 @@
 ## Test Services 
-https://jsonplaceholder.typicode.com/
+https://rickandmortyapi.com/api
 
 ## Requirements
 nodejs version >= 8.1

@@ -6,7 +6,7 @@ const env = require('../endpoint/test');
 
 const expect = chai.expect;
 
-describe('Paginate of Chapters', () => {
+describe.skip('Paginate of Chapters', () => {
 
     paginateChapters.map((data) => {
         let response, statusCode, statusMessage, headers, body;

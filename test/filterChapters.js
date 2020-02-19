@@ -8,7 +8,7 @@ const env = require('../endpoint/test');
 const expect = chai.expect;
 chai.use(chaiQuantifiers);
 
-describe('Filter of Chapters', () => {
+describe.skip('Filter of Chapters', () => {
 
     filterChapters.map((data) => {
         let response, statusCode, statusMessage, headers, body;
