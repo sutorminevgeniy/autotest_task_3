@@ -64,7 +64,6 @@ describe('Get Chapter by id', () => {
         describe(`Missing character with id ${id}`, () => {
             before(async () => {
                 data.uri = env.uri + data.uri;
-                console.log(data.uri);
 
                 response = await sendRequest(data);
                 body = response.body;
